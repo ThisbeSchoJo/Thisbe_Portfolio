@@ -1,2 +1,2 @@
 # Thisbe_Portfolio
-Practice data science portfolio
+Completed projects in Python and Javascript
