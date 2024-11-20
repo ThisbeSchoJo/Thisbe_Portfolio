@@ -1,7 +1,9 @@
+#calculator that accepts input from user
+
 import math
 
 
-print("Welcome to the Calculator App!\n")
+print("Welcome to the Calculator!\n")
 while 1:
     print("What would you like to do?")
     print("1. Addition")
